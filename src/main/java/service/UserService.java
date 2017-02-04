@@ -1,13 +1,13 @@
-package Repository;
+package service;
 
-import Domain.User;
+import domain.User;
 
 import java.util.List;
 
 /**
  * Created by Людмила on 04.02.2017.
  */
-public interface UserDao {
+public interface UserService {
     User saveOrUpdateUser(User user);
 
     User deleteUser(String id);
@@ -15,6 +15,5 @@ public interface UserDao {
     List<User> getAllUsers();
 
     User getUser(String id);
-
 
 }

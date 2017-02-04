@@ -1,7 +1,7 @@
 package dao;
 
-import Repository.ScoreDao;
-import Repository.ScoreDaoImpl;
+import repository.ScoreDao;
+import repository.ScoreDaoImpl;
 import org.junit.Assert;
 import org.junit.Test;
 

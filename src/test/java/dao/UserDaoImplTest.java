@@ -1,8 +1,8 @@
 package dao;
 
-import Domain.User;
-import Repository.UserDao;
-import Repository.UserDaoImpl;
+import domain.User;
+import repository.UserDao;
+import repository.UserDaoImpl;
 import org.junit.Assert;
 import org.junit.Test;
 

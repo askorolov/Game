@@ -1,7 +1,7 @@
-package Service;
+package service;
 
-import Repository.ScoreDao;
-import Repository.ScoreDaoImpl;
+import repository.ScoreDao;
+import repository.ScoreDaoImpl;
 
 import java.util.Map;
 

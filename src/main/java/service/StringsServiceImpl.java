@@ -1,8 +1,8 @@
-package Service;
+package service;
 
 
-import Repository.StringsDao;
-import Repository.StringsDaoImpl;
+import repository.StringsDao;
+import repository.StringsDaoImpl;
 
 import java.util.ArrayList;
 import java.util.Objects;

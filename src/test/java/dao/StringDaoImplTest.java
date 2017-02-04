@@ -1,7 +1,7 @@
 package dao;
 
-import Repository.StringsDao;
-import Repository.StringsDaoImpl;
+import repository.StringsDao;
+import repository.StringsDaoImpl;
 import org.junit.Assert;
 import org.junit.Test;
 

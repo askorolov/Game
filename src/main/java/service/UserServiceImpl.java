@@ -1,8 +1,8 @@
-package Service;
+package service;
 
-import Domain.User;
-import Repository.UserDao;
-import Repository.UserDaoImpl;
+import domain.User;
+import repository.UserDao;
+import repository.UserDaoImpl;
 
 import java.util.List;
 

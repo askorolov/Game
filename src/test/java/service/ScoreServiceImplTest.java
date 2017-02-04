@@ -1,7 +1,5 @@
 package service;
 
-import Service.ScoreService;
-import Service.ScoreServiceImpl;
 import org.junit.Assert;
 import org.junit.Test;
 

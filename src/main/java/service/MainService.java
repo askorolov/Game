@@ -1,7 +1,7 @@
-package Service;
+package service;
 
-import Domain.User;
-import Domain.UserDTO;
+import domain.User;
+import domain.UserDTO;
 
 import java.util.List;
 

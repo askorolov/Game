@@ -1,7 +1,5 @@
 package service;
 
-import Service.StringsService;
-import Service.StringsServiceImpl;
 import org.junit.Assert;
 import org.junit.Test;
 
